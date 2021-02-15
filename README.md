@@ -11,7 +11,7 @@
 <!-- Also feel free to update second URL to any URL -->
 [![MaxxDoShark's github stats](https://github-readme-stats.vercel.app/api?username=MaxxDoShark&count_private=true&include_all_commits=true&theme=radical)](https://github.com/MaxxDoShark)
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Discord]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://th.bing.com/th/id/R07619cb93e9e18d95bdb094882a8b518?rik=YB2pQ3evB50%2fDg&riu=http%3a%2f%2fmedia.moddb.com%2fimages%2fmembers%2f4%2f3865%2f3864912%2fprofile%2fIcon-Discord.png&ehk=%2bd%2bGUHAteaXzSJyqFkU5ADIMxeIoK0F%2bgFmtpbLgB%2bU%3d&risl=&pid=ImgRaw" />][Discord]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Sharky]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Twitch]
 <br />
