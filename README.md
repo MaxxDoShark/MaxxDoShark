@@ -16,7 +16,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://th.bing.com/th/id/R5fd52b8305f7b73d2be7e6877a3fc5e4?rik=v13g6TynaQA5vA&riu=http%3a%2f%2fimg.wennermedia.com%2fsocial%2ftwitch-app-logo-png-3-435313cb-c033-4243-9aa8-4eb26763a223.png&ehk=Pynnm3Im85iW9ZbMBjX5bgz5PDNNS6J41Djz7K%2b9nHA%3d&risl=&pid=ImgRaw" />][Twitch]
 <br />
 <!-- Optional if you have blogs -->
-## Latest blog posts:
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
