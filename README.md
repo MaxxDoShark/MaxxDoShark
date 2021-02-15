@@ -9,7 +9,7 @@
 - ⚡ Fun fact - ❔❔❔❔
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=MaxxDoShark&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,6 +20,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-[website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[Discord]: https://discord.gg/8c2NR4jJNd
+[Bot]: https://tinyurl.com/SharkyInvite
+[Twitch]: https://twitch.tv/maxxxdoshark
