@@ -1,4 +1,4 @@
-### Hi, I'm Maxx Whitehead <img src="https://media4.giphy.com/media/tLMx181bLPiRzqP6qh/giphy.gif?cid=ecf05e47k8h6qdyn39tlet3i7pxaztjt39qfot8ve6kbnrie&rid=giphy.gif" width="25px">
+### Hi, I'm Maxx Whitehead <img src="https://c.tenor.com/TksFPQcp2S8AAAAj/pogslide-pog.gif" width="50px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
 - 🔭 I’m currently working on - ❔❔❔❔
