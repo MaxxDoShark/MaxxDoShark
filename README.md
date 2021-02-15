@@ -1,7 +1,7 @@
 ### Hi, I'm Maxx Whitehead <img src="https://c.tenor.com/TksFPQcp2S8AAAAj/pogslide-pog.gif" width="50px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/rating-4.5%2F5-brightgreen)](https://tinyurl.com/SharkyInvite)
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
+- 🔭 I’m currently working on - A discord moderation bot called Shark Utilities for my discord and a public economy bot called Sharky
 - 🌱 I’m currently learning - ❔❔❔❔
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
