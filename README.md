@@ -1,5 +1,5 @@
 ### Hi, I'm Maxx Whitehead
-[![Website](https://img.shields.io/badge/rating-4.5%2F5-brightgreen)](https://tinyurl.com/SharkyInvite)
+
 ## About MaxxDoShark
 Certified Discord Moderator and Twitch Streamer<br/>
 Languages used: JS, PHP, C++, JAVA<br/>
