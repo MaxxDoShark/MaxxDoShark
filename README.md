@@ -1,9 +1,9 @@
 ### Hi, I'm Maxx Whitehead
 [![Website](https://img.shields.io/badge/rating-4.5%2F5-brightgreen)](https://tinyurl.com/SharkyInvite)
 ## About MaxxDoShark
-Certified Discord Moderator and Twitch Streamer\ 
-Languages used: JS, PHP, C++, JAVA\
-(I don't take requests so please don't ask me to make your discord bot)\
+Certified Discord Moderator and Twitch Streamer<br/>
+Languages used: JS, PHP, C++, JAVA<br/>
+(I don't take requests so please don't ask me to make your discord bot)<br/>
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![MaxxDoShark's github stats](https://github-readme-stats.vercel.app/api?username=MaxxDoShark&count_private=true&include_all_commits=true&theme=radical)](https://github.com/MaxxDoShark)
