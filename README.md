@@ -1,11 +1,9 @@
 ### Hi, I'm Maxx Whitehead
 [![Website](https://img.shields.io/badge/rating-4.5%2F5-brightgreen)](https://tinyurl.com/SharkyInvite)
 ## About MaxxDoShark
-- 🔭 I’m currently working on - A large scale Moderation Bot built to be fully customized to any servers needs. I also am facinated in Cyber Security.
-- 🌱 I’m currently learning - TypeScript, C++, and Rust
-- 💬 Ask me about - Discord Bots!
-- 🥅 2022 Goal - Roll out the bot to the public
-- ⚡ Fun fact - I'm not single (rare achievement)
+Certified Discord Moderator and Twitch Streamer
+Languages used: JS, PHP, C++, JAVA
+(I don't take requests so please don't ask me to make your discord bot)
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![MaxxDoShark's github stats](https://github-readme-stats.vercel.app/api?username=MaxxDoShark&count_private=true&include_all_commits=true&theme=radical)](https://github.com/MaxxDoShark)
