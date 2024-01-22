@@ -20,6 +20,7 @@ I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 ## 🎵 Other Interests
 - 🇯🇵 Fluent in Japanese
 - 🎹 Music Producer
+- 🏋️‍♂️ Bodybuilding and Gym Hobbyist
 - 🧘 Practicing Stoicism
   
 ## 📈 GitHub Stats
