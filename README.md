@@ -29,5 +29,8 @@ I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 ## 📫 How to Reach Me
 - 📧 Email: sharkydevelopment@gmail.com
   
+## 👥 Worked With
+- [Myra](https://github.com/MyYellowRockisAlive)
+- [w8st](https://github.com/w8st)
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's collaborate and build something awesome together. 🌟
