@@ -1,16 +1,16 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Role/Title] from [Your Location]. Welcome to my GitHub profile!
+I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🌟 Exploring the realms of [Your Interests/Specializations]
-- 💻 Currently working on [Current Project/Job]
+- 🌟 Exploring the realms of Music Production, and Full Stack Devlopment
+- 💻 Currently working on several website based programs.
 - 🌈 Always learning and adapting to new technologies
 
 ## 🛠️ Tech Stack
-- Languages: [Your Programming Languages]
-- Frameworks: [Your Frameworks]
-- Tools: [Your Tools]
+- Languages: Javascript, Python, Php, Rust, Some C++
+- Frameworks: nodejs
+- Tools: Discordjs
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin)
@@ -21,7 +21,7 @@ I'm [Your Name], a passionate [Your Role/Title] from [Your Location]. Welcome to
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
 ## 📫 How to Reach Me
-- 📧 Email: your@email.com
-- 🌐 Website: [Your Website](https://yourwebsite.com)
+- 📧 Email: sharkydevelopment@gmail.com
+  
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's collaborate and build something awesome together. 🌟
