@@ -5,7 +5,7 @@ I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 ## 🚀 About Me
 - 🌟 Exploring the realms of Music Production, and Full Stack Devlopment
 - 💻 Currently working on several website based programs.
-- 🌈 Always learning and adapting to new technologies
+- 🧠 Always learning and adapting to new technologies
 
 ## 🛠️ Tech Stack
 - Languages: Javascript, Python, Php, Rust, Some C++
