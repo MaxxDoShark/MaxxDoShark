@@ -19,7 +19,6 @@ I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 
 ## 🎵 Other Interests
 - 🇯🇵 Fluent in Japanese
-- 🇦🇪 Fluent in Arabic
 - 🎹 Music Producer
 - 🧘 Practicing Stoicism
   
