@@ -13,10 +13,16 @@ I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 - Tools: Discordjs
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitter)
+[![Discord](https://img.shields.io/badge/Discord-Chat-blue)](https://discordapp.com/users/maxxdoshark)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/maxx.whitehead)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourportfolio.com)
 
+## 🎵 Other Interests
+- 🇯🇵 Fluent in Japanese
+- 🇦🇪 Fluent in Arabic
+- 🎹 Music Producer
+- 🧘 Practicing Stoicism
+  
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
