@@ -23,7 +23,7 @@ I'm Maxx, a passionate hobbyist from Utah. Welcome to my GitHub profile!
 - 🧘 Practicing Stoicism
   
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxxDoShark&show_icons=true&count_private=true)
 
 ## 📫 How to Reach Me
 - 📧 Email: sharkydevelopment@gmail.com
